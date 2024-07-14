@@ -19,38 +19,38 @@
 >
 > 1.  全新的操作系统——Ubuntu 
 >
-> &emsp;&emsp;1.1. 了解与安装 Ubuntu
-> &emsp;&emsp;&emsp;&emsp;1.1.1. Windows 与 Linux
+> &emsp;&emsp;1.1. 了解与安装 Ubuntu<br>
+> &emsp;&emsp;&emsp;&emsp;1.1.1. Windows 与 Linux<br>
 >
-> &emsp;&emsp;1.1.2. 安装 Ubuntu
-> &emsp;&emsp;1.1.3. 入门 Ubuntu
+> &emsp;&emsp;1.1.2. 安装 Ubuntu<br>
+> &emsp;&emsp;1.1.3. 入门 Ubuntu<br>
 >
-> &emsp;&emsp;1.2. Ubuntu 的备份、还原与复制
+> &emsp;&emsp;1.2. Ubuntu 的备份、还原与复制<br>
 >
-> &emsp;&emsp;1.3. Ubuntu 的开机自启
-> &emsp;&emsp;&emsp;&emsp;1.3.1. 使用 rc.local
-> &emsp;&emsp;&emsp;&emsp;1.3.2. 使用 Gnome
+> &emsp;&emsp;1.3. Ubuntu 的开机自启<br>
+> &emsp;&emsp;&emsp;&emsp;1.3.1. 使用 rc.local<br>
+> &emsp;&emsp;&emsp;&emsp;1.3.2. 使用 Gnome<br>
 >
 >
 > 2. 视觉组的战友 —— 工业相机
 >
-> &emsp;&emsp;2.1. 在简锋常用的相机、
-> &emsp;&emsp;&emsp;&emsp;2.1.1. 工业相机
-> &emsp;&emsp;&emsp;&emsp;2.1.2. USB 相机
+> &emsp;&emsp;2.1. 在简锋常用的相机<br>
+> &emsp;&emsp;&emsp;&emsp;2.1.1. 工业相机<br>
+> &emsp;&emsp;&emsp;&emsp;2.1.2. USB 相机<br>
 >
-> &emsp;&emsp;2.2. 相机的成像原理
+> &emsp;&emsp;2.2. 相机的成像原理<br>
 >
-> &emsp;&emsp;2.3. 相机标定
+> &emsp;&emsp;2.3. 相机标定<br>
 >
-> &emsp;&emsp;2.4. 相机参数
+> &emsp;&emsp;2.4. 相机参数<br>
 >
 > 3. 视觉组的第一个专业课 —— OpenCV
 >
-> &emsp;&emsp;3.1. 初识 OpenCV
+> &emsp;&emsp;3.1. 初识 OpenCV<br>
 >
-> &emsp;&emsp;3.2. 学习 OpenCV
-> &emsp;&emsp;&emsp;&emsp;3.2.1. OpenCV For Python（尚未完成）
-> &emsp;&emsp;&emsp;&emsp;3.2.2. OpenCV For C++（尚未完成）
+> &emsp;&emsp;3.2. 学习 OpenCV<br>
+> &emsp;&emsp;&emsp;&emsp;3.2.1. OpenCV For Python（尚未完成）<br>
+> &emsp;&emsp;&emsp;&emsp;3.2.2. OpenCV For C++（尚未完成）<br>
 >
 > 4. 初试深度学习 —— YOLOv5（尚未完成）
 
