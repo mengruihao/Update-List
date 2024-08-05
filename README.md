@@ -56,7 +56,76 @@
 > 4. 初试深度学习 —— YOLOv5（尚未完成）
 > <br>
 
-
+### 更新目录
+> <br>
+> I. 版权声明
+> II. 关注我（们）
+> III. 前言
+> IV. 致谢
+> V. 目录
+> 0. 开始之前
+> &emsp;&emsp;0.1. 视觉组需要的数学基础
+> &emsp;&emsp;0.2. 视觉组的学习特点
+> &emsp;&emsp;0.3. 视觉组电脑建议
+> &emsp;&emsp;0.4. 视觉组的编程基础
+> &emsp;&emsp;0.5. 视觉组常用的操作系统与软件
+> 1. 全新的操作系统 —— Ubuntu
+> &emsp;&emsp;1.1.  了解并安装 Ubuntu
+> &emsp;&emsp;&emsp;&emsp;1.1.1. Windows 与 Linux
+> &emsp;&emsp;&emsp;&emsp;1.1.2. Ubuntu 的安装
+> &emsp;&emsp;&emsp;&emsp;1.1.3. 入门 Ubuntu
+> &emsp;&emsp;1.2. Ubuntu 的备份
+> &emsp;&emsp;1.3. Ubuntu 的复制与还原
+> &emsp;&emsp;1.4. Ubuntu 的开机自启
+> &emsp;&emsp;&emsp;&emsp;1.4.1. 使用 rc.local
+> &emsp;&emsp;&emsp;&emsp;1.4.2. 使用 Gnome
+> &emsp;&emsp;&emsp;&emsp;1.4.3. rc.local 卡死的解决办法
+> 2. 视觉组的战友 —— 工业相机
+> &emsp;&emsp;2.1. 在简锋常用的相机
+> &emsp;&emsp;&emsp;&emsp;2.1.1. 工业相机
+> &emsp;&emsp;&emsp;&emsp;2.1.2. USB 相机
+> &emsp;&emsp;2.2. 相机的成像原理
+> &emsp;&emsp;2.3. 相机参数
+> &emsp;&emsp;&emsp;&emsp;2.3.1. 镜头
+> &emsp;&emsp;&emsp;&emsp;2.3.2. 相机参数调节
+> &emsp;&emsp;&emsp;&emsp;2.3.3. 硬件参数
+> &emsp;&emsp;2.4. 相机的使用
+> &emsp;&emsp;&emsp;&emsp;2.4.1. 使用 C++ 调用海康 SDK
+> &emsp;&emsp;&emsp;&emsp;2.4.2. 使用 Python 调用海康 SDK
+> &emsp;&emsp;2.5. 相机标定
+> 3. 最流行的编程语言 —— Python
+> &emsp;&emsp;&emsp;&emsp;3.1. 为什么要学 Python
+> &emsp;&emsp;&emsp;&emsp;3.2. 配置 Python 环境
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.2.1. Windows 下配置 Python 环境
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1. 安装 Python （Windows）
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2. 检查是否成功安装 Python
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3. 安装 PyCharm Community Edition （Windows）
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4. 将 PyCharm 修改为中文
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.2.2. Ubuntu 下配置 Python 环境
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1. 安装 PyCharm Community Edition（Ubuntu）
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2. 启动 PyCharm Community Edition（Ubuntu）
+> &emsp;&emsp;&emsp;&emsp;3.3. 正式学习 Python
+> &emsp;&emsp;&emsp;&emsp;3.4. Python 中的 package 和 pip
+> &emsp;&emsp;&emsp;&emsp;3.5. 更方便的 Python 环境管理工具 —— Anaconda
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.5.1. 安装 Anaconda
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.5.1.1. Windows 下安装 Anaconda
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.5.1.2. Ubuntu 下安装 Anaconda
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.5.2. 为什么要用 Anaconda ？
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.5.3. 学习使用 Anaconda
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.5.4.  Jupyter 和 Spyder 的安装与启动
+> 4. 更接近底层的语言 —— C++
+> &emsp;&emsp;&emsp;&emsp;4.1. 配置 C++ 环境
+> &emsp;&emsp;&emsp;&emsp;4.2. 正式学习 C++ 
+> 5. 视觉组的第一个专业课 —— OpenCV
+> &emsp;&emsp;&emsp;&emsp;5.1. 初识 OpenCV
+> &emsp;&emsp;&emsp;&emsp;5.2. 学习 OpenCV 之前
+> &emsp;&emsp;&emsp;&emsp;5.3. 入门 Opencv For Python
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5.3.1. 环境搭建
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5.3.2. 阅读指南
+> &emsp;&emsp;&emsp;&emsp;5.4. 入门 OpenCV For C++
+> &emsp;&emsp;&emsp;&emsp;5.5. 项目实践与指导
+> 6. 初试深度学习 —— YOLOv5 的配置与使用
+> <br>
 
 ---
 
